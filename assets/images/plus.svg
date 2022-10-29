@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="93.527" height="93.527" viewBox="0 0 93.527 93.527">
+  <g id="MDI_magnify-plus" data-name="MDI / magnify-plus" opacity="0.6">
+    <g id="Boundary" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+      <rect width="93.527" height="93.527" stroke="none"/>
+      <rect x="0.5" y="0.5" width="92.527" height="92.527" fill="none"/>
+    </g>
+    <path id="Path_magnify-plus" data-name="Path / magnify-plus" d="M29.279,2A27.279,27.279,0,0,1,56.557,29.279a26.95,26.95,0,0,1-5.417,16.328l3.118,3.157h2.3L79.939,72.145l-7.794,7.794L48.763,56.557v-2.3l-3.157-3.118a26.95,26.95,0,0,1-16.328,5.417A27.279,27.279,0,1,1,29.279,2m-3.9,11.691V25.382H13.691v7.794H25.382V44.866h7.794V33.176H44.866V25.382H33.176V13.691Z" transform="translate(5.794 5.794)" fill="#fff"/>
+  </g>
+</svg>

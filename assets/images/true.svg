@@ -1,0 +1,15 @@
+<svg id="Group_51396" data-name="Group 51396" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #00cd98;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_2834" data-name="Ellipse 2834" class="cls-1" cx="11.5" cy="11.5" r="11.5" transform="translate(3.453 4)"/>
+  <path id="success" class="cls-2" d="M15,0A15,15,0,1,0,30,15,15.018,15.018,0,0,0,15,0Zm7.9,10.782L12.98,20.553a.937.937,0,0,1-1.311.006l-4.56-4.417A.937.937,0,0,1,8.414,14.8l3.9,3.779L21.58,9.447A.937.937,0,1,1,22.9,10.782Z"/>
+</svg>
