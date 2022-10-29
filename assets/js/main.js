@@ -26,6 +26,13 @@ $(document).ready(function () {
       $("body").css({ overflow: "auto" });
     }
   });
+  // when click body close mobile menu
+  $(".back-drop").click(function () {
+    $(".mobile-menu-icon").removeClass("open");
+    $(".mobile-menu").removeClass("open");
+    $(".back-drop").removeClass("show");
+    $("body").css({ overflow: "auto" });
+  });
 });
 
 /*---------- Back To Top -------*/
@@ -73,7 +80,7 @@ $(document).ready(function () {
     speed: 1000,
     loop: true,
     autoplay: {
-      delay: 3000,
+      delay: 5000,
       disableOnInteraction: false,
     },
   });
